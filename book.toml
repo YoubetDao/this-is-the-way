@@ -3,11 +3,11 @@ authors = ["youbetdao"]
 language = "zh"
 multilingual = true
 src = "src"
-title = "youbet-tutorial"
+title = "this-is-the-way"
 
 [output.html]
 additional-css = ["custom.css"]
 additional-js = ["custom.js"]
-git-repository-url = "https://github.com/youbetdao/youbet-tutorial-template"
+git-repository-url = "https://github.com/youbetdao/this-is-the-way"
 git-repository-icon = "fa-github"
 mathjax-support = true
