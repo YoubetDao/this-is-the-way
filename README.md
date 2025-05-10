@@ -1,26 +1,20 @@
-# youbet-tutorial-template
+# This is the way
 
-本仓库是 [According.Work](https://according.work/) 的教程模板，欢迎大家使用。
-
-## 准备工作
-
-- 更新 readme 文件
-- 更新目录结构
-- settings/pages/build and deployment/source 设置为 github actions - 随后选择 mdbook
-
-## 如何参与？
+本仓库用于描述 [According.Work](https://according.work/) 的[协作流程](https://youbetdao.github.io/this-is-the-way/)。
 
 ## 如何运行？
 
 ```bash
-mdbook serve 
+mdbook serve
 ```
- ![mdbook](https://3bcaf57.webp.li/myblog/mdbook1.png)
- 
- `mdbook` 是基于 Rust 的一个使用`Markdown` 创建图书的命令行工具, 需要本地先安装命令, 详情参考官方文档: [mdbook](https://rust-lang.github.io/mdBook/)
- ```bash
- cargo install mdbook
- ``` 
+
+![mdbook](https://3bcaf57.webp.li/myblog/mdbook1.png)
+
+`mdbook` 是基于 Rust 的一个使用`Markdown` 创建图书的命令行工具, 需要本地先安装命令, 详情参考官方文档: [mdbook](https://rust-lang.github.io/mdBook/)
+
+```bash
+cargo install mdbook
+```
 
 ## 关于 Youbet Study Group
 
